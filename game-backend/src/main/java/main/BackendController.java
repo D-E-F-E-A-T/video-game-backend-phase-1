@@ -6,6 +6,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
+// Explore using Proto Buffers to increase transmission, 
+//	serialization, deserialization speed.
 @RestController
 public class BackendController 
 {
