@@ -4,6 +4,3 @@ This project implements a RESTful web service API for the Simple Game Engine in 
 
 These services will provide content for the games such as the 2D world maps.
 
-Compilation
-------------------------------------
-The Spring Tool Suite is recommended to compile and run the code.
