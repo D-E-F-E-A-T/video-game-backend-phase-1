@@ -1,4 +1,4 @@
-# Game Backend Project, Stage 1 
+# Game Backend Project, Phase 1 
 # RESTful Web Services for the Simple Game Engine, in Java.
 This project implements a RESTful web service API for the Simple Game Engine in Java using Spring Framework.
 
